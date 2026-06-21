@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.tenor.com/XXXXX.gif" width="300"/>
-</p>
+
 
 ## Hi, I'm Hlib Shvachko👋<br>
 
