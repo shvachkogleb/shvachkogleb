@@ -21,19 +21,18 @@
 
 <p>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.net-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/asp.net-5C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/apache-D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
-
 
 <strong style="font-size:22px;">🎨 Frontend</strong>
 
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white" />
 </p>
-
 
 <strong style="font-size:22px;">🗄️ Databases</strong>
 
