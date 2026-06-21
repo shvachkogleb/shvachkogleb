@@ -46,9 +46,6 @@
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=xam1tovv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/glebopg2) 
