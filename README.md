@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/apache-D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
-<strong style="font-size:22px;">🎨 Frontend</strong>
+<strong style="font-size:22px;">🎨 Frontend(basic)</strong>
 
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
